@@ -1,12 +1,32 @@
 {
-  "cycles":[
-    {
-    "name":"Ciclo 1",
-    "id":0
-    },
-    {
-    "name":"Ciclo 2",
-    "id":1
-    }
-  ]
+  "getMonthInfo":[
+      {
+        "cycles":[
+          {
+            "name":"Ciclo 1",
+            "id":0
+            },
+            {
+            "name":"Ciclo 1",
+            "id":0
+           },
+            {
+            "name":"",
+            "id":-1
+           }
+        ]
+      },
+      {
+        "cycles":[]
+      },
+    
+      {
+        "cycles":[]
+      },
+    
+      {
+        "cycles":[]
+      }
+    ]
+  
 }
