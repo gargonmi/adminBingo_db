@@ -3,7 +3,7 @@
 
     
        
-        "4":{
+        "getMonth4":{
             "days":[
             {"cycles":[]},
             {"cycles":[]},
@@ -87,7 +87,7 @@
 
 
         ]},
-        "5":{"days":[
+        "getMonth5":{"days":[
 
             {"cycles":[]},
             {"cycles":[]},
@@ -172,7 +172,7 @@
 
 
         ]},
-        "6":{"days": [
+        "getMonth6":{"days": [
             {"cycles":[]},
             {"cycles":[]},
             {"cycles":[]},
